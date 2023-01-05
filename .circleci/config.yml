@@ -14,7 +14,7 @@ jobs:
 workflows:
   my_workflow:
     jobs:
-      my_job
+      - my_job
 
 
 # VS Code Extension Version: 1.5.1
